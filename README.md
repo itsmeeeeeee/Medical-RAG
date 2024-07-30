@@ -25,4 +25,4 @@ Das System verwendet das OpenAI GPT-Chatmodell, um präzise und kontextbezogene 
 Das System verwendet "TruLens" zur Evaluierung der Modellinterpretationen, um die Entscheidungsfindungsprozesse des Modells transparent zu machen und zu verbessern.
 
 **Quick Start:**  
-Führen Sie das Jupyter Notebook `medical_RAG.ipynb` aus, um das System zu starten und die Daten zu verarbeiten.
+Führen Sie das Jupyter Notebook `medical_RAG` aus, um das System zu starten und die Daten zu verarbeiten.
